@@ -1,4 +1,4 @@
-# Convert-.webp-to-.png
+# Convert .webp to .png
 ## Goal of the project
 It is a simple project to showcase my basic understanding of Python. 
 ## What the project does
